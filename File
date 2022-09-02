@@ -1,0 +1,11 @@
+<html>
+<body>
+	<form action="upload.php" method="POST" enctype="multipart/form-data">
+	
+		<input type="file" name="test">
+		
+		<input type="submit" name="btn" value="submit">
+	
+	</form>
+</body>
+</html>
